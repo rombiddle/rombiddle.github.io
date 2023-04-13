@@ -1,20 +1,24 @@
 [
     {
         "id": "1",
-        "title": "Combine sentences",
-        "status": "planned",
-        "description" : "You can add a little bit of extra context here."
+        "title": "Données en temps réel",
+        "description" : "Données en temps réel du niveau des nappes."
     },
     {
         "id": "2",
-        "title": "Open with Finder support",
-        "status": "planned"
+        "title": "Historique",
+        "description" : "Historique du niveau des nappes enregistré."
     },
     {
         "id": "3",
-        "title": "Initial Launch",
-        "status": "finished",
-        "description" : "Release v1 to the public.",
+        "title": "Recherche",
+        "description" : "Recherche des stations par ville."
+    },
+    {
+        "id": "4",
+        "title": "Lancement initial",
+        "status": "terminé",
+        "description" : "Livraison v1 au public.",
         "isFinished": true
     }
 ]
