@@ -1,16 +1,16 @@
 [
     {
-        "id": "6",
+        "id": "livedata",
         "title": "Données en temps réel",
         "description" : "Données en temps réel du niveau des nappes."
     },
     {
-        "id": "5",
+        "id": "history",
         "title": "Historique",
         "description" : "Historique du niveau des nappes."
     },
     {
-        "id": "search3",
+        "id": "search4",
         "title": "Recherche",
         "description" : "Recherche des stations par ville."
     },
