@@ -10,7 +10,7 @@
         "description" : "Historique du niveau des nappes."
     },
     {
-        "id": "3",
+        "id": "search3",
         "title": "Recherche",
         "description" : "Recherche des stations par ville."
     },
