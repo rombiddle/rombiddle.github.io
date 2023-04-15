@@ -1,24 +1,114 @@
 [
     {
         "id": "livedata",
-        "title": "Données en temps réel",
-        "description" : "Données en temps réel du niveau des nappes."
+        "title": "Real-time data",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Real-time data"
+            },
+            {
+                "language": "fr",
+                "value": "Données en temps réel"
+            }
+        ],
+        "description" : "Real-time data of the groundwater level.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Real-time data of the groundwater level."
+              },
+              {
+                "language": "fr",
+                "value": "Données en temps réel du niveau des nappes."
+              }
+            ]
     },
     {
         "id": "history",
-        "title": "Historique",
-        "description" : "Historique du niveau des nappes."
+        "title": "Historical",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Historical"
+            },
+            {
+                "language": "fr",
+                "value": "Historique"
+            }
+        ],
+        "description" : "Groundwater level history.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Groundwater level history."
+              },
+              {
+                "language": "fr",
+                "value": "Historique du niveau des nappes."
+              }
+            ]
     },
     {
         "id": "search4",
-        "title": "Recherche",
-        "description" : "Recherche des stations par ville."
+        "title": "Search",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Search"
+            },
+            {
+                "language": "fr",
+                "value": "Recherche"
+            }
+        ],
+        "description" : "Search for stations by city.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Search for stations by city."
+              },
+              {
+                "language": "fr",
+                "value": "Recherche des stations par ville."
+              }
+            ]
     },
     {
         "id": "4",
-        "title": "Lancement initial",
-        "status": "terminé",
-        "description" : "Livraison v1.",
+        "title": "Initial launch",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Initial launch"
+            },
+            {
+                "language": "fr",
+                "value": "Lancement initial"
+            }
+        ],
+        "status": "completed",
+        "localizedStatus": [
+              {
+                "language": "en",
+                "value": "completed"
+              },
+              {
+                "language": "fr",
+                "value": "terminé"
+              }
+            ],
+        "description" : "Delivery V1.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Delivery V1."
+              },
+              {
+                "language": "fr",
+                "value": "Livraison v1."
+              }
+            ],
         "isFinished": true
     }
 ]
