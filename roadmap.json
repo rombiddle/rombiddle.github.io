@@ -12,11 +12,11 @@
                 "value": "Données en temps réel"
             }
         ],
-        "description" : "Real-time data of the groundwater level.",
+        "description" : "Real-time data of the underground water level.",
         "localizedDescription": [
               {
                 "language": "en",
-                "value": "Real-time data of the groundwater level."
+                "value": "Real-time data of the underground water level."
               },
               {
                 "language": "fr",
@@ -37,11 +37,11 @@
                 "value": "Historique"
             }
         ],
-        "description" : "Groundwater level history.",
+        "description" : "underground water level history.",
         "localizedDescription": [
               {
                 "language": "en",
-                "value": "Groundwater level history."
+                "value": "underground water level history."
               },
               {
                 "language": "fr",
