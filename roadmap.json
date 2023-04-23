@@ -1,41 +1,5 @@
 [
     {
-        "id": "livedata",
-        "title": "Real-time data",
-        "localizedTitle": [
-            {
-                "language": "en",
-                "value": "Real-time data"
-            },
-            {
-                "language": "fr",
-                "value": "Données en temps réel"
-            }
-        ],
-        "status": "planned",
-        "localizedStatus": [
-              {
-                "language": "en",
-                "value": "planned"
-              },
-              {
-                "language": "fr",
-                "value": "planifié"
-              }
-            ],
-        "description" : "Real-time data of the underground water level.",
-        "localizedDescription": [
-              {
-                "language": "en",
-                "value": "Real-time data of the underground water level."
-              },
-              {
-                "language": "fr",
-                "value": "Données en temps réel du niveau des nappes."
-              }
-            ]
-    },
-    {
         "id": "history",
         "title": "Historical",
         "localizedTitle": [
@@ -84,6 +48,43 @@
                 "value": "Recherche des stations par ville."
               }
             ]
+    },
+    {
+        "id": "livedata",
+        "title": "Real-time data",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Real-time data"
+            },
+            {
+                "language": "fr",
+                "value": "Données en temps réel"
+            }
+        ],
+        "status": "completed",
+        "localizedStatus": [
+              {
+                "language": "en",
+                "value": "completed"
+              },
+              {
+                "language": "fr",
+                "value": "terminé"
+              }
+            ],
+        "description" : "Real-time data of the underground water level.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Real-time data of the underground water level."
+              },
+              {
+                "language": "fr",
+                "value": "Données en temps réel du niveau des nappes."
+              }
+            ],
+        "isFinished": true
     },
     {
         "id": "4",
