@@ -1,5 +1,30 @@
 [
     {
+        "id": "quality",
+        "title": "Quality",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Quality"
+            },
+            {
+                "language": "fr",
+                "value": "Qualité"
+            }
+        ],
+        "description" : "Physico-chemical quality of the underground water.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Physico-chemical quality of the underground water."
+              },
+              {
+                "language": "fr",
+                "value": "Qualité physico-chimique des nappes d'eau souterraine."
+              }
+            ]
+    },
+    {
         "id": "history",
         "title": "Historical",
         "localizedTitle": [
