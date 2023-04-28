@@ -62,15 +62,15 @@
                 "value": "Recherche"
             }
         ],
-        "status": "planned",
+        "status": "completed",
         "localizedStatus": [
               {
                 "language": "en",
-                "value": "planned"
+                "value": "completed"
               },
               {
                 "language": "fr",
-                "value": "planifié"
+                "value": "terminé"
               }
             ],
         "description" : "Search for stations by city.",
