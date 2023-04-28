@@ -83,7 +83,8 @@
                 "language": "fr",
                 "value": "Recherche des stations par ville."
               }
-            ]
+            ],
+        "isFinished": true
     },
     {
         "id": "livedata",
