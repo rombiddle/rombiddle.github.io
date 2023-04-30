@@ -62,15 +62,15 @@
                 "value": "Prélèvements en eau"
             }
         ],
-        "description" : "Annual volumes taken from the water resource by location and by water use category.",
+        "description" : "Annual water volumes taken by location and by water use category.",
         "localizedDescription": [
               {
                 "language": "en",
-                "value": "Annual volumes taken from the water resource by location and by water use category."
+                "value": "Annual water volumes taken by location and by water use category."
               },
               {
                 "language": "fr",
-                "value": "Volumes annuels prélevés sur la ressource en eau par localisation et par catégorie d’usage de l’eau."
+                "value": "Volumes annuels d'eau prélevés par localisation et par catégorie d’usage de l’eau."
               }
             ]
     },
