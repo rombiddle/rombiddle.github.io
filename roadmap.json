@@ -112,6 +112,18 @@
                 "value": "Historique"
             }
         ],
+        "status": "planned",
+        "localizedStatus": [
+              {
+                "language": "en",
+                "value": "planned"
+              },
+              {
+                "language": "fr",
+                "value": "planifié"
+              }
+            ],
+
         "description" : "underground water level history.",
         "localizedDescription": [
               {
