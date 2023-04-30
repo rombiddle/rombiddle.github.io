@@ -1,5 +1,80 @@
 [
     {
+        "id": "drinking_water_quality",
+        "title": "Drinking water quality",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Drinking water quality"
+            },
+            {
+                "language": "fr",
+                "value": "Qualité de l'eau potable"
+            }
+        ],
+        "description" : "Sanitary control results of the distributed water common by city.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Sanitary control results of the distributed water common by city."
+              },
+              {
+                "language": "fr",
+                "value": "Résultats du contrôle sanitaire de l'eau distribuée commune par commune."
+              }
+            ]
+    },
+    {
+        "id": "hydrometry",
+        "title": "Hydrometry",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Hydrometry"
+            },
+            {
+                "language": "fr",
+                "value": "Hydrométrie"
+            }
+        ],
+        "description" : "Height and flow measurement of watercourses.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Height and flow measurement of watercourses."
+              },
+              {
+                "language": "fr",
+                "value": "Mesure de hauteur et de débit des cours d'eau."
+              }
+            ]
+    },
+    {
+        "id": "water_samples",
+        "title": "Water samples",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Water samples"
+            },
+            {
+                "language": "fr",
+                "value": "Prélèvements en eau"
+            }
+        ],
+        "description" : "Annual volumes taken from the water resource by location and by water use category.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Annual volumes taken from the water resource by location and by water use category."
+              },
+              {
+                "language": "fr",
+                "value": "Volumes annuels prélevés sur la ressource en eau par localisation et par catégorie d’usage de l’eau."
+              }
+            ]
+    },
+    {
         "id": "quality",
         "title": "Quality",
         "localizedTitle": [
