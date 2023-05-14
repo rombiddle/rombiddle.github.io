@@ -126,15 +126,15 @@
                 "value": "Historique"
             }
         ],
-        "status": "planned",
+        "status": "completed",
         "localizedStatus": [
               {
                 "language": "en",
-                "value": "planned"
+                "value": "completed"
               },
               {
                 "language": "fr",
-                "value": "planifié"
+                "value": "terminé"
               }
             ],
 
@@ -148,7 +148,8 @@
                 "language": "fr",
                 "value": "Historique du niveau des nappes."
               }
-            ]
+            ],
+        "isFinished": true
     },
     {
         "id": "search4",
