@@ -11,7 +11,8 @@
                 "language": "fr",
                 "value": "Voici quelques idées de fonctionnalités qui pourraient être ajoutées à l'application. Vous pouvez voter pour ceux que vous souhaitez ajouter en premier."
               }
-            ]
+            ],
+        "isFinished": true
     },
     {
         "id": "drinking_water_quality",
