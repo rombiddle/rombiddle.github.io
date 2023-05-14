@@ -1,20 +1,5 @@
 [
     {
-        "id": "onboarding",
-        "description" : "Here are some ideas for additional features that could be added to the app. You can vote for the ones you would like to add first.",
-        "localizedDescription": [
-              {
-                "language": "en",
-                "value": "Here are some ideas for additional features that could be added to the app. You can vote for the ones you would like to add first."
-              },
-              {
-                "language": "fr",
-                "value": "Voici quelques idées de fonctionnalités qui pourraient être ajoutées à l'application. Vous pouvez voter pour ceux que vous souhaitez ajouter en premier."
-              }
-            ],
-        "isFinished": true
-    },
-    {
         "id": "drinking_water_quality",
         "title": "Drinking water quality",
         "localizedTitle": [
