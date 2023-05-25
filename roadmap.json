@@ -100,6 +100,31 @@
             ]
     },
     {
+        "id": "trend",
+        "title": "Trend",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Trend"
+            },
+            {
+                "language": "fr",
+                "value": "Tendance"
+            }
+        ],
+        "description" : "Underwater water level trend.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Underwater water level trend."
+              },
+              {
+                "language": "fr",
+                "value": "Tendance du niveau des nappes d'eau souterraine."
+              }
+            ]
+    },
+    {
         "id": "history",
         "title": "Historical",
         "localizedTitle": [
