@@ -112,6 +112,17 @@
                 "value": "Tendance"
             }
         ],
+        "status": "planned",
+        "localizedStatus": [
+              {
+                "language": "en",
+                "value": "planned"
+              },
+              {
+                "language": "fr",
+                "value": "planifié"
+              }
+            ],
         "description" : "Underwater water level trend.",
         "localizedDescription": [
               {
