@@ -112,15 +112,15 @@
                 "value": "Tendance"
             }
         ],
-        "status": "planned",
+        "status": "completed",
         "localizedStatus": [
               {
                 "language": "en",
-                "value": "planned"
+                "value": "completed"
               },
               {
                 "language": "fr",
-                "value": "planifié"
+                "value": "terminé"
               }
             ],
         "description" : "Underwater water level trend.",
@@ -133,7 +133,8 @@
                 "language": "fr",
                 "value": "Tendance du niveau des nappes d'eau souterraine."
               }
-            ]
+            ],
+            "isFonished": true
     },
     {
         "id": "history",
