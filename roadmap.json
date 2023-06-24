@@ -134,7 +134,7 @@
                 "value": "Tendance du niveau des nappes d'eau souterraine."
               }
             ],
-            "isFonished": true
+        "isFinished": true
     },
     {
         "id": "history",
