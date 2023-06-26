@@ -1,5 +1,42 @@
 [
     {
+        "id": "history_daily_update",
+        "title": "Historical daily update",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Historical daily update"
+            },
+            {
+                "language": "fr",
+                "value": "Mise à jour quotidienne de l'historique"
+            }
+        ],
+        "status": "planned",
+        "localizedStatus": [
+              {
+                "language": "en",
+                "value": "planned"
+              },
+              {
+                "language": "fr",
+                "value": "planifié"
+              }
+            ],
+
+        "description" : "underground water level history.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Daily update of the underground water level history."
+              },
+              {
+                "language": "fr",
+                "value": "Mise à jour quotidienne de l'historique du niveau des nappes."
+              }
+            ]
+    },
+    {
         "id": "water_samples",
         "title": "Water samples",
         "localizedTitle": [
