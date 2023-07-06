@@ -59,7 +59,7 @@
             },
             {
                 "language": "fr",
-                "value": "Mise à jour quotidienne de l'historique"
+                "value": "Mise à jour quotidien de l'historique"
             }
         ],
         "status": "planned",
@@ -82,7 +82,7 @@
               },
               {
                 "language": "fr",
-                "value": "Mise à jour quotidienne de l'historique du niveau des nappes."
+                "value": "Mise à jour quotidien de l'historique du niveau des nappes."
               }
             ]
     },
