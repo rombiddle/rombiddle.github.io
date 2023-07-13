@@ -62,15 +62,15 @@
                 "value": "Mise à jour quotidienne de l'historique"
             }
         ],
-        "status": "planned",
+        "status": "completed",
         "localizedStatus": [
               {
                 "language": "en",
-                "value": "planned"
+                "value": "completed"
               },
               {
                 "language": "fr",
-                "value": "planifié"
+                "value": "terminé"
               }
             ],
 
@@ -84,7 +84,8 @@
                 "language": "fr",
                 "value": "Mise à jour quotidienne de l'historique du niveau des nappes."
               }
-            ]
+            ],
+            "isFinished": true
     },
     {
         "id": "trend",
