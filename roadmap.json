@@ -1,5 +1,30 @@
 [
     {
+        "id": "history_zoom",
+        "title": "Better historical management",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Better historical management"
+            },
+            {
+                "language": "fr",
+                "value": "Meilleure gestion de l'historique"
+            }
+        ],
+        "description" : "Improve graph for underground water level history (zoom, rotation...).",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Improve graph for underground water level history (zoom, rotation...)."
+              },
+              {
+                "language": "fr",
+                "value": "Amélioration de la gestion de l'historique du niveau des nappes (zoom, rotation...)."
+              }
+            ]
+    },
+    {
         "id": "free_onboarding",
         "title": "Onboarding",
         "localizedTitle": [
