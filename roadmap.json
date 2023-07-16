@@ -1,5 +1,30 @@
 [
     {
+        "id": "tendency_graph",
+        "title": "Show tendencies in a chart",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Show tendencies in a chart"
+            },
+            {
+                "language": "fr",
+                "value": "Affichage des tendances avec un graphique"
+            }
+        ],
+        "description" : "Improve display of the underground water level tendencies with a chart.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Improve display of the underground water level tendencies with a chart."
+              },
+              {
+                "language": "fr",
+                "value": "Amélioration de l'affichage de l'évolution du niveau des nappes avec un graphique."
+              }
+            ]
+    },
+    {
         "id": "history_zoom",
         "title": "Better historical management",
         "localizedTitle": [
