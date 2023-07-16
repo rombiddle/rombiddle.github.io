@@ -1,5 +1,30 @@
 [
     {
+        "id": "free_onboarding",
+        "title": "Onboarding",
+        "localizedTitle": [
+            {
+                "language": "en",
+                "value": "Onboarding"
+            },
+            {
+                "language": "fr",
+                "value": "Introduction"
+            }
+        ],
+        "description" : "Presentation of the application's features for a better handling.",
+        "localizedDescription": [
+              {
+                "language": "en",
+                "value": "Presentation of the application's functionalities for a better handling."
+              },
+              {
+                "language": "fr",
+                "value": "Présentation des fonctionnalités de l'application pour une meilleure prise en main."
+              }
+            ]
+    },
+    {
         "id": "water_samples",
         "title": "Water samples",
         "localizedTitle": [
